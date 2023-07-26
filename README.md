@@ -140,3 +140,26 @@ You are required to submit the following for review:
 
 - - -
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+# 19 Progressive Web Applications (PWA): Jenny Naoroji's Text Editor
+
+## Description
+
+My task was to build a text editor that runs in the browser. This single-page application that meets the PWA criteria. 
+
+Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+
+This application will implement methods for getting anf storing data to an IndexedDB database. A lightweight wrapper package called `idb` will be used to feature methods that are useful for storing and retrieving data.
+
+This full-stack application will be deployed to Heroku.
+
+## Credits
+
+- [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
+- [IndexDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [Webpack](https://webpack.js.org/guides/getting-started/)
+- service worker
+- manifest
+
+
+
+

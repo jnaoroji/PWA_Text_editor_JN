@@ -36,6 +36,8 @@ build/Release
 node_modules/
 jspm_packages/
 
+
+
 # TypeScript v1 declaration files
 typings/
 
@@ -67,3 +69,8 @@ yarn.lock
 .DS_Store
 .vscode
 *.xslx
+
+/node_modules
+dist/
+npm-debug.log
+/*.env
