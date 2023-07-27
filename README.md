@@ -152,6 +152,11 @@ This application will implement methods for getting anf storing data to an Index
 
 This full-stack application will be deployed to Heroku.
 
+## Usage
+
+To use this application visit the Heroku deployment link!
+- https://jenny-tech-blog-5f80e3182e28.herokuapp.com/
+
 ## Credits
 
 - [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
@@ -159,7 +164,41 @@ This full-stack application will be deployed to Heroku.
 - [Webpack](https://webpack.js.org/guides/getting-started/)
 - service worker
 - manifest
+- Mock up functionality:
+The following animations demonstrates the applications Mock functionality:
 
+![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./assets/00-demo.gif)
 
+The following image shows the application's `manifest.json` file:
 
+![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./assets/01-manifest.png)
 
+The following image shows the application's registered service worker:
+
+![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./assets/02-service-worker.png)
+
+The following image shows the application's IndexedDB storage:
+
+![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./assets/03-idb-storage.png)
+
+## Screenshots
+The following screenshots show my apps functionality:
+
+![Demonstration of the finished Module 19 Challenge being used in the browser and then installed.](./assets/00-demo.gif)
+
+The following image shows the application's `manifest.json` file:
+
+![Demonstration of the finished Module 19 Challenge with a manifest file in the browser.](./assets/01-manifest.png)
+
+The following image shows the application's registered service worker:
+
+![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./assets/02-service-worker.png)
+
+The following image shows the application's IndexedDB storage:
+
+![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./assets/03-idb-storage.png)
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Please refer to the LICENSE in the repo or click on the badge for documentation.
